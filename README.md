@@ -1,6 +1,6 @@
-# 👋 Hello! I'm Mr. Udomkiat Phokaew (B)
-
 ![Header](./banner/Banner.png)
+
+# 👋 Hello! I'm Mr. Udomkiat Phokaew (B)
 
 Welcome to my GitHub profile! I am a student deeply interested in programming and technology. Programming is both my hobby and passion. I am always eager to learn and develop new skills.
 
