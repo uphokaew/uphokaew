@@ -7,20 +7,20 @@ Welcome to my GitHub profile! I am a student deeply interested in programming an
 
 ## 🛠️ Skills and Technologies
 
-- **Languages:** TypeScript, C, etc.
-- **Frameworks:** Next.js
+- **Languages:** JavaScript, TypeScript, Rust, C/C++, etc.
+- **Frameworks:** Next.js, Ntex
 - **Tools:** Git, Docker, Visual Studio Code
-- **Others:** Tailwind CSS
+- **Others:** Tailwind CSS, figma
 
 ## 🌟 Notable Projects
 
 ### Project 1: [libft](https://github.com/uphokaew/libft)
+and
+### Project 2: [ft_printf](https://github.com/uphokaew/ft_printf)
+
 Libft is a project from my studies at 42 Bangkok, focused on creating various libraries and utility functions.
 
-### Project 2: [ft_printf](https://github.com/uphokaew/ft_printf)
-ft_printf is a project from my studies at 42 Bangkok, focused on creating various libraries and utility functions.
-
-etc.
+### Project Hobby etc.
 
 ## 🧠 What I'm Learning
 
