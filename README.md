@@ -26,6 +26,11 @@ Libft is a project from my studies at 42 Bangkok, focused on creating various li
 
 I am currently delving into low-level programming languages to gain a deeper understanding of computer operations and architecture.
 
+## Education
+
+- **2023**: Studied software development at **42 Bangkok**, a branch of **École 42**, focusing on peer-to-peer and project-based learning to build coding and problem-solving skills.
+- **2024**: Pursuing a Bachelor’s degree in Computer Science at **Ramkhamhaeng University**, specializing in software development and modern technologies.
+
 ## 📫 How to Reach Me
 
 - **Email:** beok159@gmail.com
